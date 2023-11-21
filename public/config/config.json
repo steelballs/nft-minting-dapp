@@ -1,21 +1,21 @@
 {
   "CONTRACT_ADDRESS": "0x62078f64B75F25B986eC53966f59485C2F9844D1",
-  "SCAN_LINK": "https://etherscan.io/address/0x62078f64B75F25B986eC53966f59485C2F9844D1",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x62078f64B75F25B986eC53966f59485C2F9844D1",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Goerli",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 5
   },
-  "NFT_NAME": "Hashlips",
-  "SYMBOL": "Hashlips",
-  "MAX_SUPPLY": 3333,
-  "DISPLAY_COST": 0.0169,
+  "NFT_NAME": "FF112023-01",
+  "SYMBOL": "FF112023-01",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 145000,
-  "MAX_PER_TX": 10,
+  "MAX_PER_TX": 20,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/",
   "Telegram": "https://",
   "Discord": "https://",
-  "Twitter": "https://",
+  "Twitter": "https://twitter.com/0xCockadoodles",
   "SHOW_BACKGROUND": false
 }
